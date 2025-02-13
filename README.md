@@ -1,9 +1,3 @@
-# React Courses App
-
-A React application that displays a list of courses fetched from an API and provides detailed information about each course. The app includes error handling, a loading state, and navigation using React Router.
-
-## 🚀 Features
-
 - **Home Route (`/`)**  
   - Fetches courses from `coursesApiUrl` using an HTTP GET request.
   - Displays a loader while data is being fetched.
@@ -22,6 +16,10 @@ A React application that displays a list of courses fetched from an API and prov
 - **Not Found Route**  
   - If an invalid URL is entered, the user is redirected to a **Not Found Page**.
   - Clicking the website logo redirects to the **Home Route**.
+
+## 🌍 Live Demo
+
+🔗 **Live Link:** [View Demo](https://allcourses.ccbp.tech)  
 
 ## 🛠️ Installation
 
@@ -61,3 +59,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 📄 License
 This project is licensed under the MIT License.
+
+Made with ❤️ by Your Name
