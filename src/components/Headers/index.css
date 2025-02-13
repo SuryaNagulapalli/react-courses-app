@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.nav-bg-container {
+  background-color: #f1f5f9;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.logo-image {
+  height: 40px;
+  width: 120px;
+}
