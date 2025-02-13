@@ -60,4 +60,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 📄 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by Your Name
+Made with ❤️ by SURYA NAGULAPALLI
